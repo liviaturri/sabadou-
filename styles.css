@@ -149,11 +149,13 @@ h2 {
 }
 
 .rotacao-botao{
+    background-color: #b12bd3;
     transform: rotate(-90deg);
     transform-origin: right center;
 }
 
 .opcoes-acessibilidade{
+    background-color: #b12bd3;
     margin-top:10px;
     display: flex;
     flex-direction: column;
